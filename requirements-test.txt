@@ -1,0 +1,3 @@
+wheel
+pytest
+pytest-pep8
