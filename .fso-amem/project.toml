@@ -1,0 +1,6 @@
+[project]
+name = "ujang-github-action-demo"
+slug = "ujang-github-action-demo"
+
+[amem]
+server = "https://amem.flusci.org"
